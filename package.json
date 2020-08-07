@@ -10,7 +10,7 @@
     "dec-test": "node assets/app.bundle.js",
     "build": "webpack -d",
     "start-babel": "npm run build && npm run dec-test",
-    "start-tsc": "npm run compile && npm run decoratorsta-test"
+    "start-tsc": "npm run compile && npm run decorator-test"
   },
   "keywords": [],
   "author": "",
