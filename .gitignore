@@ -1,3 +1,7 @@
 .idea
 .vscode
+.DS_Store
+**/.DS_Store
 node_modules
+./decorator/class.js
+./decorator/logType.js
